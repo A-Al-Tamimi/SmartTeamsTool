@@ -169,6 +169,25 @@ The interface targets WCAG 2.1 AA conformance for colour contrast across both li
 
 ---
 
+## Citation
+
+If you reference this assessment in academic, training, or published work, please cite:
+
+> Al-Tamimi, A. (2026). *Smart Teams Tool* [Web application]. Retrieved from https://SmartTeamsTool.netlify.app/
+
+BibTeX:
+
+```bibtex
+@misc{altamimi2026nsa,
+  author       = {Al-Tamimi, Abdel-Karim},
+  title        = {Smart Teams Tool},
+  year         = {2026},
+  howpublished = {\url{https://smartteamstool.netlify.app/}},
+  note         = {Web application}
+}
+```
+---
+
 ## License
 
 © 2026 **Abdel-Karim Al-Tamimi**. All rights reserved.
