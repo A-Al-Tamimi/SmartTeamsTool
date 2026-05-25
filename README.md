@@ -5,7 +5,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/A-Al-Tamimi/SmartTeamsTool?style=social)](https://github.com/A-Al-Tamimi/SmartTeamsTool/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/A-Al-Tamimi/SmartTeamsTool?style=social)](https://github.com/A-Al-Tamimi/SmartTeamsTool/network/members)
 [![License](https://img.shields.io/badge/license-Personal%20%26%20Educational-blue.svg)](#license)
-[![Live demo](https://img.shields.io/badge/demo-smart--teams--tool.com-0A0A0A.svg)](https://SmartTeamsTool.netlify.app)
+[![Live demo](https://img.shields.io/badge/SmartTeamsTool.netlify.app-0A0A0A.svg)](https://SmartTeamsTool.netlify.app)
 
 > If this work supports your research, teaching, or facilitation practice, please consider starring the repository. Visibility helps the project reach more educators and team leaders.
 
