@@ -178,7 +178,7 @@ If you reference this assessment in academic, training, or published work, pleas
 BibTeX:
 
 ```bibtex
-@misc{altamimi2026nsa,
+@misc{altamimi2026stt,
   author       = {Al-Tamimi, Abdel-Karim},
   title        = {Smart Teams Tool},
   year         = {2026},
